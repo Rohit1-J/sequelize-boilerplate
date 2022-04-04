@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "repository": "https://github.com/Rohit1-J/sequelize-boilerplate.git",
-    "author": "Rohit Jalagadugula <rohit.jalagadugula@sap.com>",
+    "author": "",
     "license": "MIT",
     "devDependencies": {},
     "dependencies": {
